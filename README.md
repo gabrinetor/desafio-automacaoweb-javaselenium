@@ -50,9 +50,7 @@ Em formato BDD (Behavior Driven Development).
   - **Cenário 5** :  Realizar cadastro do cliente <br>
 	<p><p>Dado usuário preenche campo de endereço de e-mail <br>
 	<p><p>E clica para registrar e-mail <br>
-	<p><p>Quando campos obrigatórios forem preenchidos: <br>
-	<p><p><p>	título, nome, sobrenome, senha, data de nascimento, endereço, 
-		cidade, estado, código postal, país e número de celular <br>
+	<p><p>Quando campos obrigatórios forem preenchidos: título, nome, sobrenome, senha, data de nascimento, endereço, cidade, estado, código postal, país e número de celular <br>
 	<p><p>Então clicar para registrar <br> 
 
 
@@ -71,8 +69,7 @@ Em formato BDD (Behavior Driven Development).
 
   - **Cenário 8** :  Validar valor total da compra <br>
 	<p><p>Dado que tela de pagamento apresenta total a ser pago <br>
-	<p><p>Quando localizar: <br>
-	<p><p><p>	foto de produto, descrição, disponibilidade, preço unitário, quantidade e total de cada produto <br>
+	<p><p>Quando localizar: foto de produto, descrição, disponibilidade, preço unitário, quantidade e total de cada produto <br>
 	<p><p>E soma dos produtos selecionados for igual ao total de produtos <br>
 	<p><p>Então localizar total de produtos e total de envio <br>
 
