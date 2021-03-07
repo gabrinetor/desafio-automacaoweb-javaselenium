@@ -7,7 +7,8 @@ Este desafio trata-se de um teste de automação em java usando o Selenium WebDr
 	- Java Faker;
 	- Selenium Shutterbug (screenshot das evidências);
 	- WebDriverManager;
-
+	
+	
 Aqui são usadas convenções de pacotes, classes, atributos e métodos em português. 
 O site que será testado será o Automation Practice (http://automationpractice.com), cujos testes se resumem apenas em validações e manipulações de alguns elementos. 
 
@@ -18,13 +19,13 @@ Em formato BDD (Behavior Driven Development).
 **Funcionalidade** :  Realizar uma compra com sucesso
 
   - **Cenário 1** :  Acessar o site
-	Dado que acessa o site 'http://automationpractice.com'
-	Quando der scroll na página até metade da página
-	Então será localizado produto com desconto
+  	Dado que acessa o site 'http://automationpractice.com'
+        Quando der scroll na página até metade da página
+        Então será localizado produto com desconto
 	
 
   - **Cenário 2** :  Escolher produto na loja
-	Dado que produto com desconto for localizado
+        Dado que produto com desconto for localizado
 	E solicitar produto 
 	Quando clicar para adicionar ao carrinho 	
 	Então preço no card será comparado ao preço apresentado no pop-up
