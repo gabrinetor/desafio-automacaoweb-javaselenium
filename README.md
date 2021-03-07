@@ -1,7 +1,7 @@
 
 ## Desafio de Automação de Testes em Java
-Este desafio trata-se de um teste de automação em java usando o Selenium WebDriver para testar o site , em padrão de projeto PageObjects em uma metodologia DDT (Data Driven Testing), e foram usadas as seguintes dependências Maven: 
-	- JUnit Jupiter (JUnit 5);
+Este desafio trata-se de um teste de automação em java usando o Selenium WebDriver para testar o site , em padrão de projeto PageObjects em uma metodologia DDT (Data Driven Testing), e foram usadas as seguintes dependências Maven: <br>
+	- JUnit Jupiter (JUnit 5); <br>
 	- Selenium Java;
 	- Extent Report;
 	- Java Faker;
