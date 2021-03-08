@@ -11,7 +11,7 @@ import org.openqa.selenium.JavascriptExecutor;
 
 public class PrimeiroTeste {
 
-    private static WebDriver driver;    //objeto driver protegido e unico, e pode ser chamado sem que WebDriver seja istanciado em um objeto
+    /*private static WebDriver driver;    //objeto driver protegido e unico, e pode ser chamado sem que WebDriver seja istanciado em um objeto
 
     public static void main(String[] args) {
 
@@ -47,6 +47,6 @@ public class PrimeiroTeste {
 
         driver.quit();   //encerrar o navegador, a sessão
 
-    }
+    }*/
 
 }
