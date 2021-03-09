@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 public class TesteBase {
-
+/*
     private static WebDriver driver;    //objeto driver protegido e unico, e pode ser chamado sem que WebDriver seja istanciado em um objeto
     private static String URL = "http://automationpractice.com";
 
@@ -34,6 +34,6 @@ public class TesteBase {
     public static void endDriver(){
         driver.close();
         driver.quit();
-    }
+    }*/
 
 }

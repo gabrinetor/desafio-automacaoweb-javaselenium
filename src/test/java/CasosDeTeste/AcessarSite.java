@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 public class AcessarSite extends TesteBase{
 
-    private static WebDriver driver;
+    /*private static WebDriver driver;
 
     @Test
     public void acessarSite() {
@@ -46,5 +46,5 @@ public class AcessarSite extends TesteBase{
 
             TesteBase.endDriver();
 
-    }
+    }*/
 }
